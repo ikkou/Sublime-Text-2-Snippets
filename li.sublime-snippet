@@ -1,0 +1,12 @@
+<snippet>
+	<content>
+<![CDATA[
+<ul class="">
+    <li><a href="${1}">${2}</a></li>
+    <li><a href="${3}">${4}</a></li>
+    <li><a href="${5}">${6}</a></li>
+</ul>]]>
+	</content>
+	<tabTrigger>list</tabTrigger>
+	<description>listタグ展開</description>
+</snippet>

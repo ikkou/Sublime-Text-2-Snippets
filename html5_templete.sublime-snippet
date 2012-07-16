@@ -1,0 +1,42 @@
+<snippet>
+	<content>
+<![CDATA[
+<!doctype html>
+<head>
+    <meta charset="UTF-8">
+     
+    <title></title>
+     
+    <meta name="description" content="">
+    <meta name="author" content="">
+     
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     
+    <link rel="shortcut icon" href="common/favicon.ico">
+    <link rel="apple-touch-icon" href="common/apple-touch-icon.png">
+     
+    <link rel="stylesheet" href="css/common.css?v=1">
+</head>
+<body>
+    <header>
+        <h1>Your title</h1>
+        <nav>
+            <ul>
+                <li><a href="#">XXX</a></li>
+                <li><a href="#">XXX</a></li>
+                <li><a href="#">XXX</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="wrapper">
+    	<p>hoge</p>
+    </div>
+    <footer class="wrapper">
+        <p>copyright</p>
+    </footer>
+ </body>
+</html>]]>
+	</content>
+	<tabTrigger>html5</tabTrigger>
+	<description>html5テンプレート</description>
+</snippet>

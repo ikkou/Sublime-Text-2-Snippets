@@ -1,0 +1,10 @@
+<snippet>
+	<content>
+<![CDATA[
+<img src="${1}" width="${2}" height="${3}" alt="${4}" />
+
+]]>
+	</content>
+	<tabTrigger>img</tabTrigger>
+	<description>imgタグ展開</description>
+</snippet>
